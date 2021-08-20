@@ -1,0 +1,25 @@
+{
+  "name": "sonarcloud-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xXHachimanXx/Sonarcloud-Node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xXHachimanXx/Sonarcloud-Node/issues"
+  },
+  "homepage": "https://github.com/xXHachimanXx/Sonarcloud-Node#readme",
+  "dependencies": {
+    "@types/jest": "^27.0.1",
+    "jest": "^27.0.6",
+    "sonar-scanner": "^3.1.0"
+  }
+}
